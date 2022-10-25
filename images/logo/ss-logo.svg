@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="45.545105mm"
+   height="45.545101mm"
+   viewBox="0 0 45.545105 45.545101"
+   version="1.1"
+   id="svg5"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false" />
+  <defs
+     id="defs2">
+    <rect
+       x="179.3717"
+       y="177.92516"
+       width="140.31496"
+       height="109.9375"
+       id="rect113" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-44.396913,-24.112109)">
+    <circle
+       style="fill:#000000;stroke-width:0.160639"
+       id="path223"
+       cx="67.169464"
+       cy="46.884663"
+       r="22.772552" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,2.3847888,-14.131178)"
+       id="text111"
+       style="font-size:96px;white-space:pre;shape-inside:url(#rect113);fill:#ffffff;fill-opacity:1"
+       inkscape:export-filename="ss-logo.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="179.37109"
+         y="265.50949"
+         id="tspan1037">SS</tspan></text>
+  </g>
+</svg>

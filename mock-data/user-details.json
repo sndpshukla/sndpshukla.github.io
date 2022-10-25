@@ -1,0 +1,184 @@
+{
+  "firstName": "Sandeep",
+  "lastName": "Shukla",
+  "previewEmail" :"sandeep.shukla@outlook.com",
+  "about": {
+    "quote": "Perfection in design is achieved, not when there is nothing more to add, but when there is nothing left to take away.",
+    "workingSince": "2012-05-08T18:30:00.000Z",
+    "workingGap": null,
+    "aboutMe": "Experienced Senior Consultant with a demonstrated history of working in management consulting industry as a Front-End Architect and lead. Skilled in developing high performing, accessible, responsive single page applications and handling end to end projects."
+  },
+  "interests": [
+    "💻 <coding>",
+    "📖 reading",
+    "📷 photography",
+    "✏️ drawing"
+  ],
+  "interestDetails": [
+    {
+      "type": "reading",
+      "details": [
+        {
+          "title": "One Shot",
+          "author": "Lee Child",
+          "image": "/images/interests/reading/one-shot.jpg"
+        },
+        {
+          "title": "Dip",
+          "author": "Seth Godin",
+          "image": "/images/interests/reading/dip.jpg"
+        },
+        {
+          "title": "Man's Search for Meaning",
+          "author": "Victor E. Frankl",
+          "image": "/images/interests/reading/mans-search-for-meaning.jpg"
+        },
+        {
+          "title": "Can't Hurt Me",
+          "author": "David Goggins",
+          "image": "/images/interests/reading/cant-hurt-me.jpg"
+        },
+        {
+          "title": "No Rules Rules",
+          "author": "Reed Hastings & Erin Meyer",
+          "image": "/images/interests/reading/no-rules-rules.jpg"
+        },
+        {
+          "title": "Rework",
+          "author": "Jason Fried",
+          "image": "/images/interests/reading/rework.jpg"
+        },
+        {
+          "title": "Start with why",
+          "author": "Simon Sinek",
+          "image": "/images/interests/reading/start-with-why.jpg"
+        },
+        {
+          "title": "The Almanack of Naval Ravikant",
+          "author": "Eric Jorgenson",
+          "image": "/images/interests/reading/the-almanack-of-naval-ravikant.jpg"
+        },
+        {
+          "title": "The Anthropocene Reviewed",
+          "author": "John Green",
+          "image": "/images/interests/reading/the-anthropocene-reviewed.jpg"
+        },
+        {
+          "title": "The Compound Effect",
+          "author": "Darren Hardy",
+          "image": "/images/interests/reading/the-compound-effect.jpg"
+        },
+        {
+          "title": "The Courage to be Disliked",
+          "author": "Ichiro Kishimi",
+          "image": "/images/interests/reading/the-courage-to-be-disliked.jpg"
+        },
+        {
+          "title": "The Midnight Library",
+          "author": "Matt Haig",
+          "image": "/images/interests/reading/the-midnight-library.jpg"
+        },
+        {
+          "title": "The Visitor",
+          "author": "Lee Child",
+          "image": "/images/interests/reading/the-visitor.jpg"
+        },
+        {
+          "title": "Upgrade",
+          "author": "Blake Crouch",
+          "image": "/images/interests/reading/upgrade.jpg"
+        },
+        {
+          "title": "What if 2",
+          "author": "Randall Munroe",
+          "image": "/images/interests/reading/what-if-2.jpg"
+        },
+        {
+          "title": "Without Fail",
+          "author": "Lee Child",
+          "image": "/images/interests/reading/without-fail.jpg"
+        },
+        {
+          "title": "Zero to One",
+          "author": "Peter Thiel",
+          "image": "/images/interests/reading/zero-to-one.jpg"
+        },
+        {
+          "title": "Think Again",
+          "author": "Adam Grant",
+          "image": "/images/interests/reading/think-again.jpg"
+        }
+      ]
+    },
+    {
+      "type": "photography",
+      "details": [
+        {
+          "title": "Photo of architecture on top of a temple entry",
+          "image": "/images/interests/photography/2.jpg"
+        },
+        {
+          "title": "Close up shot of architecture on a temple",
+          "image": "/images/interests/photography/3.jpg"
+        },
+        {
+          "title": "Close up shot of grass with dew",
+          "image": "/images/interests/photography/4.jpg"
+        },
+        {
+          "title": "Vibrant Clouds",
+          "image": "/images/interests/photography/5.jpg"
+        },
+        {
+          "title": "HDR shot of a beach",
+          "image": "/images/interests/photography/6.jpg"
+        },
+        {
+          "title": "Close up shot of a butterfly",
+          "image": "/images/interests/photography/7.jpg"
+        },
+        {
+          "title": "A flying Pelican",
+          "image": "/images/interests/photography/8.jpg"
+        },
+        {
+          "title": "Bokeh shot of Buddha's face",
+          "image": "/images/interests/photography/11.jpg"
+        },
+        {
+          "title": "Buddha status on top of mountain",
+          "image": "/images/interests/photography/12.jpg"
+        },
+        {
+          "title": "A group of Pelicans",
+          "image": "/images/interests/photography/10.jpg"
+        },
+        {
+          "title": "Lotus",
+          "image": "/images/interests/photography/9.jpg"
+        },
+        {
+          "title": "Photo of a small temple",
+          "image": "/images/interests/photography/1.jpg"
+        }
+      ]
+    },
+    {
+      "type": "drawing",
+      "details": [
+        {
+          "title": "Saitama - Pencil color",
+          "image": "/images/interests/drawing/1.jpg"
+        },
+        {
+          "title": "Iron Man - Poster color",
+          "image": "/images/interests/drawing/2.jpg"
+        },
+        {
+          "title": "Deadpool - Poster color",
+          "image": "/images/interests/drawing/3.jpg"
+        }
+      ]
+    }
+  ]
+}
