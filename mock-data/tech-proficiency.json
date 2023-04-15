@@ -17,8 +17,8 @@
     "additionalInputs": [
       "Theming using CSS variables.",
       "Media queries for responsive layout/targeting required devices.",
-      "CSS animations using keyframes.",
-      "Backgrounds and gradiesnts.",
+      "CSS animations using key-frames.",
+      "Backgrounds and gradients.",
       "Column, grid and flex layouts to achieve the desired structure."
     ],
     "hidden": false
@@ -28,7 +28,7 @@
     "proficiency": 5,
     "type": "tech",
     "additionalInputs": [
-      "Async programming i.e. AJAX requests, geolocation implementation etc.",
+      "Async programming i.e. AJAX requests, geo-location implementation etc.",
       "Site animations.",
       "Form validations with accessible implementation.",
       "Revealing or Hidden Module pattern implementation for large apps with modular dev approach.",
@@ -54,7 +54,7 @@
     "additionalInputs": [
       "Well versed with mobile first and fluid development approaches for web applications.",
       "Have used CSS frameworks like Bootstrap to create reusable responsive components.",
-      "Well versed with custom media queries to target specific devices and relevant usecases."
+      "Well versed with custom media queries to target specific devices and relevant use-cases."
     ],
     "hidden": false
   },
@@ -64,7 +64,7 @@
     "type": "tech",
     "additionalInputs": [
       "Written handlebars template to generate demo pages for components generated in plain JS and jQuery.",
-      "Used handlebars, jQuery and Grunt to generate component driven app using vanialla JS without any framework."
+      "Used handlebars, jQuery and Grunt to generate component driven app using vanilla JS without any framework."
     ],
     "hidden": false
   },
@@ -106,7 +106,7 @@
     "proficiency": 4.5,
     "type": "impl",
     "additionalInputs": [
-      "Improved performance of web-apps by over 50% by splitting bundles and lazyloading them.",
+      "Improved performance of web-apps by over 50% by splitting bundles and lazy-loading them.",
       "Implemented lazy loading on images and delay initialization on media elements to boost site performance.",
       "Implemented changes suggested by lighthouse console to boost site performance."
     ],
@@ -150,7 +150,7 @@
     "proficiency": 4,
     "type": "tech",
     "additionalInputs": [
-      "Async programming i.e. AJAX requests, geolocation implementation etc.",
+      "Async programming i.e. AJAX requests, geo-location implementation etc.",
       "Write code that is modular and clean to achieve the desired functionality.",
       "Depending on the need the code can be class driven or functional in nature.",
       "Well versed with modular pattern for Javascript to write self sufficient functional components."
@@ -184,7 +184,7 @@
     "additionalInputs": [
       "Written custom bundling for a large scale project created using modular jQuery and Javascript components.",
       "Implemented lazy loading in webpack to achieve lower load times for app.",
-      "Updated config to support multi-brand develpment having different theming in a single repo."
+      "Updated config to support multi-brand development having different theming in a single repo."
     ],
     "hidden": false
   },
@@ -195,6 +195,15 @@
     "additionalInputs": [
       "Have used VueJS to create a web application for a large gaming entity in Canada.",
       "Implemented state management and persistence in Vue Components."
+    ],
+    "hidden": false
+  },
+  {
+    "label": "Gatsby JS",
+    "proficiency": 3.75,
+    "type": "tech",
+    "additionalInputs": [
+      "Have used GatsbyJS to create vertical sliced micro-front-end based app in yarn workspaces."
     ],
     "hidden": false
   }

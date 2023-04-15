@@ -1,12 +1,12 @@
 {
   "firstName": "Sandeep",
   "lastName": "Shukla",
-  "previewEmail" :"sandeep.shukla@outlook.com",
+  "previewEmail": "sandeep.shukla@outlook.com",
   "about": {
     "quote": "Perfection in design is achieved, not when there is nothing more to add, but when there is nothing left to take away.",
     "workingSince": "2012-05-08T18:30:00.000Z",
     "workingGap": null,
-    "aboutMe": "Experienced Senior Consultant with a demonstrated history of working in management consulting industry as a Front-End Architect and lead. Skilled in developing high performing, accessible, responsive single page applications and handling end to end projects."
+    "aboutMe": "Experienced Front End Architect/Lead with a demonstrated history of working in management consulting industry as a Front-End Architect and lead with full-stack dev exposure. Skilled in developing high performing, accessible, responsive single page applications and handling end to end projects."
   },
   "interests": [
     "💻 <coding>",
@@ -19,6 +19,30 @@
       "type": "reading",
       "details": [
         {
+          "title": "The 10X Rule",
+          "author": "Grant Cardone",
+          "image": "/images/interests/reading/the-10x-rule.jpg",
+          "review": "https://thinkingthroughblogs.wordpress.com/2023/02/22/the-10x-rule-book-by-grant-cardone-thoughts-and-summary/"
+        },
+        {
+          "title": "Think Again",
+          "author": "Adam Grant",
+          "image": "/images/interests/reading/think-again.jpg",
+          "review": "https://thinkingthroughblogs.wordpress.com/2022/02/28/what-i-learnt-from-think-again-book-by-adam-grant/"
+        },
+        {
+          "title": "Man's Search for Meaning",
+          "author": "Victor E. Frankl",
+          "image": "/images/interests/reading/mans-search-for-meaning.jpg",
+          "review": "https://thinkingthroughblogs.wordpress.com/2022/12/12/mans-search-for-meaning-book-by-victor-e-frankl-thoughts-and-summary/"
+        },
+        {
+          "title": "Can't Hurt Me",
+          "author": "David Goggins",
+          "image": "/images/interests/reading/cant-hurt-me.jpg",
+          "review": "https://thinkingthroughblogs.wordpress.com/2022/11/09/cant-hurt-me-thoughts-and-summary/"
+        },
+        {
           "title": "One Shot",
           "author": "Lee Child",
           "image": "/images/interests/reading/one-shot.jpg"
@@ -27,16 +51,6 @@
           "title": "Dip",
           "author": "Seth Godin",
           "image": "/images/interests/reading/dip.jpg"
-        },
-        {
-          "title": "Man's Search for Meaning",
-          "author": "Victor E. Frankl",
-          "image": "/images/interests/reading/mans-search-for-meaning.jpg"
-        },
-        {
-          "title": "Can't Hurt Me",
-          "author": "David Goggins",
-          "image": "/images/interests/reading/cant-hurt-me.jpg"
         },
         {
           "title": "No Rules Rules",
@@ -102,11 +116,6 @@
           "title": "Zero to One",
           "author": "Peter Thiel",
           "image": "/images/interests/reading/zero-to-one.jpg"
-        },
-        {
-          "title": "Think Again",
-          "author": "Adam Grant",
-          "image": "/images/interests/reading/think-again.jpg"
         }
       ]
     },

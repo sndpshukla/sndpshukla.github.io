@@ -8,11 +8,11 @@
     "to": "2014-10-21T18:30:00.000Z",
     "imgsrc": "/images/workex/tcs-logo.webp",
     "isCurrent": false,
-    "summary": "Started out in the IT industry as a Full Stack Developer, because of interest in UI technologies, switched over to FE stack after 6 months. Worked as an individual contributor in a larger team, collaborated well, and developed solutions that were praised by stakeholders.",
+    "summary": "I began my career in the IT industry as a Full Stack Developer in TCS, and due to my keen interest in UI technologies, transitioned to Front-End (FE) development after six months. As part of a larger team, I excelled as an individual contributor and consistently collaborated effectively, leading to the development of solutions that were highly praised by stakeholders.",
     "tasks": [
-      "Developed creative solutions which received appreciations from involved stakeholders.",
-      "Developed Single Page Applications using JS, jQuery, XSLT, CSS3, HTML5 and FE MVC Frameworks like Angular JS and Backbone.",
-      "Contributed as developer on full stack project involving J2EE, Struts2, AJAX and MySQL."
+      "Developed creative solutions that received multiple appreciations from stakeholders.",
+      "Developed Single Page Applications using JS, jQuery, XSLT, CSS3, HTML5, and FE MVC Frameworks like Angular JS and Backbone.",
+      "Contributed as a developer on a full-stack project involving J2EE, Struts2, AJAX, and MySQL."
     ]
   },
   {
@@ -24,11 +24,11 @@
     "to": "2015-10-21T18:30:00.000Z",
     "imgsrc": "/images/workex/ofss-logo.jpg",
     "isCurrent": false,
-    "summary": "First exposure on banking domain and related security layers. Understood mobile first development approach and web components.",
+    "summary": "During my tenure at OFSS, I gained my first experience in the banking domain, including related security layers. I also became proficient in mobile-first development approach and utilized web components such as Polymer JS (now Lit elements) to create seamless and fluid user experiences.",
     "tasks": [
-      "Involved in development of functional modules from inception to completion.",
-      "Created reusable web-components, based on material design guidelines, using Polymer JS and Knockout JS.",
-      "Created responsive, modular and scalable Single Page Application using web-components and Mobile First Fluid Layout Approach."
+      "Involved in the development of functional modules from inception to completion.",
+      "Created reusable web-components based on material design guidelines, using Polymer JS and Knockout JS.",
+      "Created responsive, modular, and scalable Single Page Applications using web-components and Mobile First Fluid Layout Approach."
     ]
   },
   {
@@ -40,12 +40,12 @@
     "to": "2017-12-02T18:30:00.000Z",
     "imgsrc": "/images/workex/ofss-logo.jpg",
     "isCurrent": false,
-    "summary": "First exposure of CMS and integrating developed components in CMS of choice. Worked in multiple AEM projects as an individual contributor and later on lead FE developer.",
+    "summary": "At Deloitte, I gained my initial exposure to Content Management Systems (CMS) and successfully integrated developed components into the CMS of choice. I contributed to multiple AEM (Adobe Experience Manager) projects as an individual developer and later took on the role of a lead Front-End (FE) developer. Additionally, I worked on various retail applications, developing functional web applications for prominent agencies.",
     "tasks": [
-      "Took responsibility as lead developer and created two responsive/fluid web portals for a leading pharmaceutical company.",
+      "Took on the responsibility as lead developer and created two responsive/fluid web portals for a leading pharmaceutical company.",
       "Created reusable components that can be easily integrated with a CMS of choice for a leading retail portal.",
-      "Integrated multimedia platforms like Kaltura and Brightcove, and Maps API from Google and Bing to web portals.",
-      "Created component driven, mobile first web application for a national governing body."
+      "Integrated multimedia platforms like Kaltura and Brightcove, as well as Maps API from Google and Bing, into web portals.",
+      "Created a component-driven, mobile-first web application for a national governing body."
     ]
   },
   {
@@ -57,12 +57,12 @@
     "to": "2018-10-26T18:30:00.000Z",
     "imgsrc": "/images/workex/ofss-logo.jpg",
     "isCurrent": false,
-    "summary": "Handled and supervised larger teams as a Team Lead. Helped in team member's development, set up and reviewed application architecture as a Front End SME.",
+    "summary": "As an Application Development Team Lead at Accenture, I effectively managed and supervised larger teams, mentoring team members for their professional growth. I also played a pivotal role in setting up and reviewing application architecture as a Front End Subject Matter Expert (SME). Additionally, I worked on the development of complex applications using Angular 6 and microservices.",
     "tasks": [
       "Managed deliveries as Technology Lead.",
-      "Completed project quality reviews as an SME for Front End. Gave actionable items to teams to improve code quality and performance.",
-      "Created component driven messaging app using Angular 6 and web-sockets.",
-      "Worked on project migration from older technologies to Angular 6 and micro-services."
+      "Conducted project quality reviews as a Subject Matter Expert (SME) for Front End, providing actionable feedback to improve code quality and performance.",
+      "Developed a component-driven messaging app using Angular 6 and web sockets.",
+      "Contributed to the migration of projects from older technologies to Angular 6 and microservices."
     ]
   },
   {
@@ -74,13 +74,13 @@
     "to": "2020-06-01T18:30:00.000Z",
     "imgsrc": "/images/workex/ofss-logo.jpg",
     "isCurrent": false,
-    "summary": "Lead developer on projects. Handled application architecture and performance optimization for large scale apps in depth.",
+    "summary": "As a Consultant at Deloitte, served as a Lead Developer on various projects, taking charge of application architecture and in-depth performance optimization for large-scale applications.",
     "tasks": [
-      "Handled projects as lead developer.",
-      "Created responsive web app for a leading electronics manufacturer using 3D rendering and interactions in browser (React + Three JS).",
-      "Lead developer on a project for one of the leading gaming entities in Canada (VueJS + AEM).",
-      "Created performance intensive web apps with page load times under 2 seconds.",
-      "Converted page performance data to actionable items and improved page performance by over 50%."
+      "Led development efforts as a Lead Developer on multiple projects.",
+      "Developed a responsive web application for a leading electronics manufacturer, utilizing 3D rendering and interactions in the browser using React and Three.js.",
+      "Served as the Lead Developer on a project for a prominent gaming entity in Canada, employing Vue.js and Adobe Experience Manager (AEM).",
+      "Created performance-intensive web applications with page load times under 2 seconds, delivering exceptional user experiences.",
+      "Converted page performance data into actionable insights, resulting in over 50% improvement in page performance."
     ]
   },
   {
@@ -89,15 +89,31 @@
     "country": "India",
     "title": "Senior Consultant",
     "from": "2020-06-01T18:30:00.000Z",
+    "to": "2023-02-17T18:30:00.000Z",
     "imgsrc": "/images/workex/ofss-logo.jpg",
     "isCurrent": true,
-    "summary": "Architect of Front End modules in project, leading team of FE developers towards succeful deliveries and personal growth. Developing appliations that are fluid, cross browser compatible, fast and accessible. Handling architecture and performance optimization for large scale apps in depth.",
+    "summary": "As a Senior Consultant at Deloitte, I served as the Architect of Front-End modules within projects, leading a team of Front-End developers towards successful deliveries and personal growth. I developed applications that are fluid, cross-browser compatible, fast, and accessible, while also handling architecture and performance optimization for large-scale applications in-depth.",
     "tasks": [
-      "Created base architecture of Front End Module for a large scale Web App to be integrated with CMS.",
-      "Optimized bundle sizes for CSS and JS files by 30%, improving page load time (Webpack).",
-      "Through timely quality checks and code reviews, ensured that web application is tech debt free and WCAG level AA compliant.",
-      "Managed team of FE developers to deliver development stories in a timely manner with quality work.",
-      "Converted performance data from Lighthouse report to actionable items to ensure that app is fast and meets performance benchmarks."
+      "Created the base architecture of the Front-End module for a large-scale web app to be integrated with a CMS.",
+      "Optimized bundle sizes for CSS and JS files by 30% using Webpack, resulting in improved page load time.",
+      "Ensured that the web application is free of technical debt and meets WCAG level AA compliance through timely quality checks and code reviews.",
+      "Managed a team of Front-End developers to deliver development stories in a timely manner with high-quality work.",
+      "Converted performance data from Lighthouse reports into actionable items to ensure that the app is fast and meets performance benchmarks."
+    ]
+  },
+  {
+    "organization": "Publicis Sapient",
+    "city": "Pune",
+    "country": "India",
+    "title": "Manager Experience Technology",
+    "from": "2023-02-22T18:30:00.000Z",
+    "imgsrc": "/images/workex/ofss-logo.jpg",
+    "isCurrent": true,
+    "summary": "Currently working as a Manager/Architect in Experience Technology in Publicis Sapient. Responsibilities include system design for scalable, high performant, multilingual and accessible applications, along with leading and development of individual team members to ensure a holistic delivery.",
+    "tasks": [
+      "Manage application delivery to minimize technical debt and ensure quality through code reviews and checks.",
+      "Support the team in gaining exposure to relevant technologies by creating demos and providing guidance.",
+      "Developed a vertical sliced micro-front-end (MFE) based app using Gatsby for a large retail chain."
     ]
   }
 ]
