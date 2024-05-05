@@ -159,11 +159,21 @@
   },
   {
     "label": "TypeScript",
-    "proficiency": 4,
+    "proficiency": 5,
     "type": "tech",
     "additionalInputs": [
       "Capable of developing large scale apps using TypeScript.",
       "Well versed with development using TypeScript in modern frameworks like Angular and libraries like React."
+    ],
+    "hidden": false
+  },
+  {
+    "label": "MongoDB",
+    "proficiency": 3,
+    "type": "tech",
+    "additionalInputs": [
+      "Capable of developing MERN Stack applications driven by MongoDB as Data Storage.",
+      "Efficiently able to use Mongoose/terminal to create appropriate schema for collections and apply required resitrictions."
     ],
     "hidden": false
   },
