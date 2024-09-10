@@ -1,34 +1,55 @@
 [
   {
-    "organization": "Tata Consultancy Services Ltd.",
-    "city": "Mumbai",
+    "organization": "Publicis Sapient",
+    "city": "Pune",
     "country": "India",
-    "title": "Systems Engineer",
-    "from": "2012-05-08T18:30:00.000Z",
-    "to": "2014-10-21T18:30:00.000Z",
-    "imgsrc": "/images/workex/tcs-logo.webp",
-    "isCurrent": false,
-    "summary": "I began my career in the IT industry as a Full Stack Developer in TCS, and due to my keen interest in UI technologies, transitioned to Front-End (FE) development after six months. As part of a larger team, I excelled as an individual contributor and consistently collaborated effectively, leading to the development of solutions that were highly praised by stakeholders.",
+    "title": "Manager Experience Technology",
+    "from": "2023-02-22T18:30:00.000Z",
+    "imgsrc": "/images/workex/ps-logo.svg",
+    "isCurrent": true,
+    "summary": "Currently working as a Manager/Architect in Experience Technology in Publicis Sapient. Responsibilities include system design for scalable, high performant, multilingual and accessible applications, along with leading and development of individual team members to ensure a holistic delivery.",
     "tasks": [
-      "Developed creative solutions that received multiple appreciations from stakeholders.",
-      "Developed Single Page Applications using JS, jQuery, XSLT, CSS3, HTML5, and FE MVC Frameworks like Angular JS and Backbone.",
-      "Contributed as a developer on a full-stack project involving J2EE, Struts2, AJAX, and MySQL."
+      "Led a team of 8 developers to successfully migrate a product from Angular 13 to React 18 with headless CMS integration(React + AEM).",
+      "Built high-performing client code with a focus on speed, testability, and scalability, and drove strong collaboration with engineers, designers, and managers to address user pain points and iterate on solutions.",
+      "Created demos and proof-of-concepts (POCs), conducted training sessions, and mentored junior engineers to enhance team skills and knowledge.",
+      "Developed vertically sliced micro-front-end (MFE) based web app using Gatsby for a large retail chain.",
+      "Optimized an existing web application by reducing the number of network calls by 80% and significantly boosting the performance score."
     ]
   },
   {
-    "organization": "Oracle Financial Services Software Ltd.",
-    "city": "Mumbai",
+    "organization": "Deloitte",
+    "city": "Pune",
     "country": "India",
-    "title": "Applications Engineer",
-    "from": "2014-11-01T18:30:00.000Z",
-    "to": "2015-10-21T18:30:00.000Z",
-    "imgsrc": "/images/workex/ofss-logo.jpg",
-    "isCurrent": false,
-    "summary": "During my tenure at OFSS, I gained my first experience in the banking domain, including related security layers. I also became proficient in mobile-first development approach and utilized web components such as Polymer JS (now Lit elements) to create seamless and fluid user experiences.",
+    "title": "Consultant/Senior Consultant",
+    "from": "2018-11-09T18:30:00.000Z",
+    "to": "2023-02-17T18:30:00.000Z",
+    "imgsrc": "/images/workex/deloitte-logo.svg",
+    "isCurrent": true,
+    "summary": "As a Senior Consultant at Deloitte, I served as the Architect for Front-End modules. Part of my responsibilities, apart from individual contribution, was leading a team of Front-End developers towards successful deliveries and personal growth. I developed applications that were fluid, cross-browser compatible, fast, and accessible (WCAG 2.1 AA), while also handling architecture and performance optimization for large-scale applications in-depth.",
     "tasks": [
-      "Involved in the development of functional modules from inception to completion.",
-      "Created reusable web-components based on material design guidelines, using Polymer JS and Knockout JS.",
-      "Created responsive, modular, and scalable Single Page Applications using web-components and Mobile First Fluid Layout Approach."
+      "Led development efforts on multiple projects as Lead Developer, overseeing technical execution and team coordination.",
+      "Designed and implemented scalable front-end architecture for a large-scale web app, integrating it with a CMS.",
+      "Developed a responsive web application for a leading electronics manufacturer, incorporating 3D rendering and interactions using React and Three.js.",
+      "Analyzed page performance data from Lighthouse and GT Metrix to derive actionable insights, leading to a 70% improvement in page performance through optimization in Webpack/app.",
+      "Created performance-intensive web applications with page load times under 2 seconds, ensuring exceptional user experiences.",
+      "Conducted quality checks and code reviews to eliminate technical debt and achieve WCAG AA 2.0 compliance; also led the development of a Proof of Concept to demonstrate successful integration of Next.js with a Headless CMS."
+    ]
+  },
+  {
+    "organization": "Accenture",
+    "city": "Pune",
+    "country": "India",
+    "title": "Application Development Team Lead",
+    "from": "2017-12-11T18:30:00.000Z",
+    "to": "2018-10-26T18:30:00.000Z",
+    "imgsrc": "/images/workex/accenture-logo.svg",
+    "isCurrent": false,
+    "summary": "As an Application Development Team Lead at Accenture, I effectively managed and supervised larger teams, mentoring team members for their professional growth. I also played a pivotal role in setting up and reviewing application architecture as a Front End Subject Matter Expert (SME) for Angular 6. Additionally, I worked on the development of complex applications using Angular 6 and microservices.",
+    "tasks": [
+      "Managed deliveries as Technology Lead.",
+      "Conducted project quality reviews as a Subject Matter Expert (SME) for Front End, providing actionable feedback to improve code quality and performance.",
+      "Developed a component-driven messaging app using Angular 6 and web sockets.",
+      "Contributed to the migration of projects from older technologies to Angular 6 and microservices."
     ]
   },
   {
@@ -38,7 +59,7 @@
     "title": "Consultant",
     "from": "2015-11-01T18:30:00.000Z",
     "to": "2017-12-02T18:30:00.000Z",
-    "imgsrc": "/images/workex/ofss-logo.jpg",
+    "imgsrc": "/images/workex/deloitte-logo.svg",
     "isCurrent": false,
     "summary": "At Deloitte, I gained my initial exposure to Content Management Systems (CMS) and successfully integrated developed components into the CMS of choice. I contributed to multiple AEM (Adobe Experience Manager) projects as an individual developer and later took on the role of a lead Front-End (FE) developer. Additionally, I worked on various retail applications, developing functional web applications for prominent agencies.",
     "tasks": [
@@ -49,71 +70,35 @@
     ]
   },
   {
-    "organization": "Accenture",
-    "city": "Pune",
+    "organization": "Oracle Financial Services Software Ltd.",
+    "city": "Mumbai",
     "country": "India",
-    "title": "Application Development Team Lead",
-    "from": "2017-12-11T18:30:00.000Z",
-    "to": "2018-10-26T18:30:00.000Z",
-    "imgsrc": "/images/workex/ofss-logo.jpg",
+    "title": "Applications Engineer",
+    "from": "2014-11-01T18:30:00.000Z",
+    "to": "2015-10-21T18:30:00.000Z",
+    "imgsrc": "/images/workex/oracle-logo.svg",
     "isCurrent": false,
-    "summary": "As an Application Development Team Lead at Accenture, I effectively managed and supervised larger teams, mentoring team members for their professional growth. I also played a pivotal role in setting up and reviewing application architecture as a Front End Subject Matter Expert (SME). Additionally, I worked on the development of complex applications using Angular 6 and microservices.",
+    "summary": "During my tenure at OFSS, I gained my first experience in the banking domain, including related security layers. I also became proficient in mobile-first development approach and utilized web components such as Polymer JS (now Lit elements) to create seamless and fluid user experiences.",
     "tasks": [
-      "Managed deliveries as Technology Lead.",
-      "Conducted project quality reviews as a Subject Matter Expert (SME) for Front End, providing actionable feedback to improve code quality and performance.",
-      "Developed a component-driven messaging app using Angular 6 and web sockets.",
-      "Contributed to the migration of projects from older technologies to Angular 6 and microservices."
+      "Involved in the development of functional modules from inception to completion.",
+      "Created reusable web-components based on material design guidelines, using Polymer JS and Knockout JS.",
+      "Created responsive, modular, and scalable Single Page Applications using web-components and Mobile First Fluid Layout Approach."
     ]
   },
   {
-    "organization": "Deloitte",
-    "city": "Pune",
+    "organization": "Tata Consultancy Services Ltd.",
+    "city": "Mumbai",
     "country": "India",
-    "title": "Consultant",
-    "from": "2018-11-09T18:30:00.000Z",
-    "to": "2020-06-01T18:30:00.000Z",
-    "imgsrc": "/images/workex/ofss-logo.jpg",
+    "title": "Systems Engineer",
+    "from": "2012-05-08T18:30:00.000Z",
+    "to": "2014-10-21T18:30:00.000Z",
+    "imgsrc": "/images/workex/tcs-logo.svg",
     "isCurrent": false,
-    "summary": "As a Consultant at Deloitte, served as a Lead Developer on various projects, taking charge of application architecture and in-depth performance optimization for large-scale applications.",
+    "summary": "I began my career in the IT industry as a Full Stack Developer in TCS, and due to my keen interest in UI technologies, transitioned to Front-End (FE) development after six months. As part of a larger team, I excelled as an individual contributor and consistently collaborated effectively, leading to the development of solutions that were highly praised by stakeholders.",
     "tasks": [
-      "Led development efforts as a Lead Developer on multiple projects.",
-      "Developed a responsive web application for a leading electronics manufacturer, utilizing 3D rendering and interactions in the browser using React and Three.js.",
-      "Served as the Lead Developer on a project for a prominent gaming entity in Canada, employing Vue.js and Adobe Experience Manager (AEM).",
-      "Created performance-intensive web applications with page load times under 2 seconds, delivering exceptional user experiences.",
-      "Converted page performance data into actionable insights, resulting in over 50% improvement in page performance."
-    ]
-  },
-  {
-    "organization": "Deloitte",
-    "city": "Pune",
-    "country": "India",
-    "title": "Senior Consultant",
-    "from": "2020-06-01T18:30:00.000Z",
-    "to": "2023-02-17T18:30:00.000Z",
-    "imgsrc": "/images/workex/ofss-logo.jpg",
-    "isCurrent": true,
-    "summary": "As a Senior Consultant at Deloitte, I served as the Architect of Front-End modules within projects, leading a team of Front-End developers towards successful deliveries and personal growth. I developed applications that are fluid, cross-browser compatible, fast, and accessible, while also handling architecture and performance optimization for large-scale applications in-depth.",
-    "tasks": [
-      "Created the base architecture of the Front-End module for a large-scale web app to be integrated with a CMS.",
-      "Optimized bundle sizes for CSS and JS files by 30% using Webpack, resulting in improved page load time.",
-      "Ensured that the web application is free of technical debt and meets WCAG level AA compliance through timely quality checks and code reviews.",
-      "Managed a team of Front-End developers to deliver development stories in a timely manner with high-quality work.",
-      "Converted performance data from Lighthouse reports into actionable items to ensure that the app is fast and meets performance benchmarks."
-    ]
-  },
-  {
-    "organization": "Publicis Sapient",
-    "city": "Pune",
-    "country": "India",
-    "title": "Manager Experience Technology",
-    "from": "2023-02-22T18:30:00.000Z",
-    "imgsrc": "/images/workex/ofss-logo.jpg",
-    "isCurrent": true,
-    "summary": "Currently working as a Manager/Architect in Experience Technology in Publicis Sapient. Responsibilities include system design for scalable, high performant, multilingual and accessible applications, along with leading and development of individual team members to ensure a holistic delivery.",
-    "tasks": [
-      "Manage application delivery to minimize technical debt and ensure quality through code reviews and checks.",
-      "Support the team in gaining exposure to relevant technologies by creating demos and providing guidance.",
-      "Developed a vertical sliced micro-front-end (MFE) based app using Gatsby for a large retail chain."
+      "Developed creative solutions that received multiple appreciations from stakeholders.",
+      "Developed Single Page Applications using JS, jQuery, XSLT, CSS3, HTML5, and FE MVC Frameworks like Angular JS and Backbone.",
+      "Contributed as a developer on a full-stack project involving J2EE, Struts2, AJAX, and MySQL."
     ]
   }
 ]
