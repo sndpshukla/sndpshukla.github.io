@@ -1,0 +1,88 @@
+[
+  {
+    "label": "Accessibility Tooling",
+    "proficiency": 4.5,
+    "category": "functional",
+    "additionalInputs": [
+      "Built ESLint custom rules to enforce accessibility patterns.",
+      "Integrated Playwright + axe-core pipeline to run automated accessibility scans.",
+      "Authored docs and training for accessibility checks and remediation workflows."
+    ],
+    "examples": [
+      "Created ESLint plugin to catch semantic issues and enforce focus management.",
+      "Developed Playwright runner that opens flows and reports axe-core violations to CI."
+    ],
+    "hidden": false
+  },
+  {
+    "label": "Leadership & Delivery",
+    "proficiency": 5,
+    "category": "functional",
+    "additionalInputs": [
+      "Led teams of 8-12 engineers across multiple releases.",
+      "Responsible for delivery planning, status reporting and stakeholder management.",
+      "Mentored engineers and conducted code/design reviews to raise quality and morale."
+    ],
+    "examples": [
+      "Led migration from Angular to React for a major product and delivered on schedule.",
+      "Introduced QA and accessibility gates in the CI pipeline to reduce regressions."
+    ],
+    "hidden": false
+  },
+  {
+    "label": "Mentoring & Leadership",
+    "proficiency": 4.5,
+    "category": "functional",
+    "additionalInputs": [
+      "Mentored mid-level engineers and conducted onboarding sessions for new hires.",
+      "Ran regular design reviews and career development conversations."
+    ],
+    "examples": [
+      "Created a mentorship program pairing juniors with seniors for structured growth.",
+      "Hosted brown-bag sessions on performance and code quality best practices."
+    ],
+    "hidden": false
+  },
+  {
+    "label": "Agile Methodologies",
+    "proficiency": 4.5,
+    "category": "functional",
+    "additionalInputs": [
+      "Practiced Scrum and Kanban; facilitated planning and retrospectives.",
+      "Introduced lightweight metrics to improve predictability and quality."
+    ],
+    "examples": [
+      "Improved sprint predictability by introducing WIP limits and better grooming.",
+      "Facilitated cross-team coordination for large releases."
+    ],
+    "hidden": false
+  },
+  {
+    "label": "Code Quality",
+    "proficiency": 4.5,
+    "category": "functional",
+    "additionalInputs": [
+      "Established linting, formatting and CI gates to maintain code standards.",
+      "Introduced PR templates and automated testing requirements for merges."
+    ],
+    "examples": [
+      "Implemented ESLint and Prettier rules across monorepo to ensure consistency.",
+      "Set up CI checks that block merges on failing tests or style issues."
+    ],
+    "hidden": false
+  },
+  {
+    "label": "Problem Solving",
+    "proficiency": 5,
+    "category": "functional",
+    "additionalInputs": [
+      "Experience diagnosing complex production issues and providing mitigation plans.",
+      "Skilled at breaking down large problems into testable, incremental steps."
+    ],
+    "examples": [
+      "Led post-incident reviews and implemented fixes to prevent recurrence.",
+      "Designed incremental rollout strategies to mitigate risk during migrations."
+    ],
+    "hidden": false
+  }
+]

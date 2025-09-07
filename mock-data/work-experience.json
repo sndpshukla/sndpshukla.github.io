@@ -1,13 +1,28 @@
 [
   {
+    "organization": "Atlassian",
+    "city": "Pune",
+    "country": "India",
+    "title": "Senior Software Engineer",
+    "from": "2025-05-26T18:30:00.000Z",
+    "imgsrc": "/images/workex/atlassian-logo.svg",
+    "isCurrent": true,
+    "summary": "As a Senior Software Engineer at Atlassian, I am currently working with JFP Team (Jira). Team is centered around accessibility and dev productivity. My role involves leading accessibility work streams.",
+    "tasks": [
+      "Leading the accessibility issue attribution and remediation efforts for Jira Stream, ensuring compliance with WCAG 2.1 AA standards.",
+      "Building static code analysis tools to automate accessibility checks and improve code quality."
+    ]
+  },
+  {
     "organization": "Publicis Sapient",
     "city": "Pune",
     "country": "India",
     "title": "Manager Experience Technology",
     "from": "2023-02-22T18:30:00.000Z",
+    "to": "2025-05-16T18:30:00.000Z",
     "imgsrc": "/images/workex/ps-logo.svg",
-    "isCurrent": true,
-    "summary": "Currently working as a Manager/Architect in Experience Technology in Publicis Sapient. Responsibilities include system design for scalable, high performant, multilingual and accessible applications, along with leading and development of individual team members to ensure a holistic delivery.",
+    "isCurrent": false,
+    "summary": "As a Manager/Architect of Front End in Publicis Sapient. My responsibilities included system design for scalable, high performant, multilingual and accessible applications, along with leading and development of individual team members to ensure a holistic delivery.",
     "tasks": [
       "Led a team of 8 developers to successfully migrate a product from Angular 13 to React 18 with headless CMS integration(React + AEM).",
       "Built high-performing client code with a focus on speed, testability, and scalability, and drove strong collaboration with engineers, designers, and managers to address user pain points and iterate on solutions.",

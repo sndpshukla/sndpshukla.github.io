@@ -91,13 +91,15 @@
     "hidden": false
   },
   {
-    "label": "React 18",
+    "label": "React 19",
     "proficiency": 4.5,
     "type": "tech",
     "additionalInputs": [
-      "Developed large scale app using functional components in React.",
-      "Well versed with component lifecycle and relevant hooks.",
-      "Developed high performance apps using features like lazy-loading images and site bundles."
+      "Developed large scale apps using functional components in React.",
+      "Well versed with various implementation patterns (hook based, component based, and HOC based implementations).",
+      "Developed high performance apps using features like lazy-loading images and site bundles.",
+      "Implemented both SPA and MPA based apps using React.",
+      "Implemented state management using Redux and Context API for large scale React Apps."
     ],
     "hidden": false
   },
@@ -113,7 +115,7 @@
     "hidden": false
   },
   {
-    "label": "Angular 10",
+    "label": "Angular 16",
     "proficiency": 4.5,
     "type": "tech",
     "additionalInputs": [
@@ -136,18 +138,20 @@
   },
   {
     "label": "Node JS",
-    "proficiency": 4.25,
+    "proficiency": 4.5,
     "type": "tech",
     "additionalInputs": [
       "Implemented REST APIs using express and nodejs.",
-      "Created basic app hosting server to test the developed components using express and Node.",
-      "Created PDF download functionality for a medium scale app using PdfKit and NodeJS"
+      "Created a custom server to host static files and serve dynamic content using NodeJS.",
+      "Created PDF download functionality for a medium scale app using PdfKit and NodeJS",
+      "Implemented server side rendering for a React app using NodeJS.",
+      "Implemented GraphQL APIs using NodeJS and Apollo Server."
     ],
     "hidden": false
   },
   {
     "label": "Javascript (OOJS)",
-    "proficiency": 4,
+    "proficiency": 5,
     "type": "tech",
     "additionalInputs": [
       "Async programming i.e. AJAX requests, geo-location implementation etc.",
@@ -189,7 +193,7 @@
   },
   {
     "label": "Webpack",
-    "proficiency": 4,
+    "proficiency": 5,
     "type": "tech",
     "additionalInputs": [
       "Written custom bundling for a large scale project created using modular jQuery and Javascript components.",
@@ -214,6 +218,76 @@
     "type": "tech",
     "additionalInputs": [
       "Have used GatsbyJS to create vertical sliced micro-front-end based app in yarn workspaces."
+    ],
+    "hidden": false
+  },
+  {
+    "label": "NextJS",
+    "proficiency": 4.25,
+    "type": "tech",
+    "additionalInputs": [
+      "Built SEO-friendly server-side rendered pages and hybrid static apps.",
+      "Implemented incremental static regeneration and optimized bundles."
+    ],
+    "hidden": false
+  },
+  {
+    "label": "Tailwind CSS",
+    "proficiency": 4,
+    "type": "tech",
+    "additionalInputs": [
+      "Used utility-first approach to rapidly prototype layouts and components.",
+      "Integrated with PostCSS and optimized CSS generation for production."
+    ],
+    "hidden": false
+  },
+  {
+    "label": "GraphQL",
+    "proficiency": 3.75,
+    "type": "tech",
+    "additionalInputs": [
+      "Implemented GraphQL APIs using Apollo Server and consumed them in React clients.",
+      "Used query batching and persisted queries to improve performance."
+    ],
+    "hidden": false
+  },
+  {
+    "label": "Rollup",
+    "proficiency": 3.5,
+    "type": "tech",
+    "additionalInputs": [
+      "Used Rollup for building small libraries and optimizing ES modules.",
+      "Configured plugins to manage assets and code-splitting."
+    ],
+    "hidden": false
+  },
+  {
+    "label": "Vite",
+    "proficiency": 4,
+    "type": "tech",
+    "additionalInputs": [
+      "Used Vite for fast development startup and optimized production builds.",
+      "Migrated projects from webpack to Vite for improved DX."
+    ],
+    "hidden": false
+  },
+  {
+    "label": "Jest",
+    "proficiency": 4,
+    "type": "tech",
+    "additionalInputs": [
+      "Wrote unit tests for React components and utility functions.",
+      "Used mocking and snapshot testing where appropriate."
+    ],
+    "hidden": false
+  },
+  {
+    "label": "Cypress",
+    "proficiency": 3.75,
+    "type": "tech",
+    "additionalInputs": [
+      "Implemented end-to-end tests for critical flows and regressions.",
+      "Integrated Cypress into CI for smoke and regression suites."
     ],
     "hidden": false
   }
